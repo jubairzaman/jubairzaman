@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ESRD Lab , Dhaka**
 
-- 👨‍💻 All of my projects are available at [https://jubair.vercel.app/)]((https://jubair.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://jubair.vercel.app/](https://jubair.vercel.app/)
 
 - 📫 How to reach me **Jubair.zaman01@gmail.com**
 
